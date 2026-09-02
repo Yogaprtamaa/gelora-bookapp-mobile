@@ -1,6 +1,6 @@
-# flutter_lapon
+# gelora
 
-A new Flutter project.
+Gelora — Space for Sport. Booking lapangan, sewa alat & marketplace olahraga jadi satu.
 
 ## Getting Started
 
